@@ -1,3 +1,3 @@
-# CSS positioning tutorial
+# CSS Positioning Tutorial
 
-this is  a simple webpage that shows how to implement different css positioning properties
+This is a simple webpage that shows how to implement different css positioning properties
